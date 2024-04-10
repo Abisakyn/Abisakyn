@@ -1,3 +1,4 @@
 ### I am Nafula 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abisakyn)](https://github.com/Abisakyn/github-readme-stats)
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Abisakyn&theme=synthwave"/>
+<img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abisakyn"/>
