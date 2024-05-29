@@ -7,3 +7,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abisakyn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=abisakyn&label=Profile%20Views&color=10&icon=6&pretty=false" />
+</a>
